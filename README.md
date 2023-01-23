@@ -2,16 +2,12 @@
 
 ### App Description
 
-`TODO://` Add app description
-This app ask user to enter their info like first name, last name, college, and etc. When all the question is answered the app allow to do a quick self-introduction about the user.
+This app ask user to enter their info like first name, last name, college, and etc. When all the question is answered the app allow to do a quick self-introduction about the user. The app also features the ability to change background color, display a new storyboard, and use UIContoller on the new story board.
 
 ### App Walk-though
 
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
+<!-- <img src="<!-- <img src="YOUR_GIF_URL_HERE" width=200><br>" width=200><br>
 
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
-
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required Features
 
@@ -24,5 +20,6 @@ This app ask user to enter their info like first name, last name, college, and e
 
 ### Optional Features
 
-- [ ] 1. User can tap a button to change the color of the background view
-- [ ] 3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
+- [x] 1. User can tap a button to change the color of the background view
+- [x] 3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
+- [x] 4. Any stylistic changes that are not default options (add more button allow user to interact with)
