@@ -8,7 +8,26 @@
 import UIKit
 
 class ViewController: UIViewController {
+    var colorChanged = true
 
+    @IBAction func didTapButton(_ sender: Any) {
+        let storyboard = UIStoryboard(name: "Main", bundle: nil)
+        let secondController = storyboard.instantiateViewController(withIdentifier: "second")
+        secondController.loadViewIfNeeded()
+        
+        self.present(secondController, animated: true, completion: nil)
+    }
+    
+    @IBAction func changeBackGroundColor(_ sender: UIButton) {
+        colorChanged = !colorChanged
+        if colorChanged{
+            let color = UIColor(red: 0.80, green: 0.76, blue: 0.89, alpha: 1.00)
+            view.backgroundColor = color
+        }
+        else{
+            view.backgroundColor = .white
+        }
+    }
     @IBAction func IntroduceSelfDidTap(_ sender: UIButton) {
         // Lets us choose the title we have selected from the segmented control
         // In our example that is whether it is first, second, third or forth

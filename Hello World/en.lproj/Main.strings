@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "School:"; ObjectID = "10m-Iu-ZAD"; */
+"10m-Iu-ZAD.text" = "School:";
+
+/* Class = "UILabel"; text = "Wants more pets?"; ObjectID = "N6X-qe-xoG"; */
+"N6X-qe-xoG.text" = "Wants more pets?";
+
+/* Class = "UISegmentedControl"; Ok1-8f-ecz.segmentTitles[0] = "First"; ObjectID = "Ok1-8f-ecz"; */
+"Ok1-8f-ecz.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; Ok1-8f-ecz.segmentTitles[1] = "Second"; ObjectID = "Ok1-8f-ecz"; */
+"Ok1-8f-ecz.segmentTitles[1]" = "Second";
+
+/* Class = "UISegmentedControl"; Ok1-8f-ecz.segmentTitles[2] = "Third"; ObjectID = "Ok1-8f-ecz"; */
+"Ok1-8f-ecz.segmentTitles[2]" = "Third";
+
+/* Class = "UISegmentedControl"; Ok1-8f-ecz.segmentTitles[3] = "Forth"; ObjectID = "Ok1-8f-ecz"; */
+"Ok1-8f-ecz.segmentTitles[3]" = "Forth";
+
+/* Class = "UILabel"; text = "Last Name:"; ObjectID = "Tei-NM-cYA"; */
+"Tei-NM-cYA.text" = "Last Name:";
+
+/* Class = "UIButton"; configuration.title = "Introduce Yourself"; ObjectID = "XiM-Ne-qIA"; */
+"XiM-Ne-qIA.configuration.title" = "Introduce Yourself";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XiM-Ne-qIA"; */
+"XiM-Ne-qIA.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "YOe-Mp-v9v"; */
+"YOe-Mp-v9v.text" = "0";
+
+/* Class = "UILabel"; text = "Pets:"; ObjectID = "hqj-7c-Ib2"; */
+"hqj-7c-Ib2.text" = "Pets:";
+
+/* Class = "UILabel"; text = "First Name:"; ObjectID = "i8h-DP-hif"; */
+"i8h-DP-hif.text" = "First Name:";

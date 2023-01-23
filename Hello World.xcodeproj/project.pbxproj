@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		391416D7297EDE7600D2890D /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 391416D6297EDE7600D2890D /* NewViewController.swift */; };
 		3963DA9B297DD87200481FB7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3963DA9A297DD87200481FB7 /* AppDelegate.swift */; };
 		3963DA9D297DD87200481FB7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3963DA9C297DD87200481FB7 /* SceneDelegate.swift */; };
 		3963DA9F297DD87200481FB7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3963DA9E297DD87200481FB7 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		391416D6297EDE7600D2890D /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 		3963DA97297DD87200481FB7 /* Hello World.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hello World.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3963DA9A297DD87200481FB7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3963DA9C297DD87200481FB7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				3963DA9A297DD87200481FB7 /* AppDelegate.swift */,
 				3963DA9C297DD87200481FB7 /* SceneDelegate.swift */,
 				3963DA9E297DD87200481FB7 /* ViewController.swift */,
+				391416D6297EDE7600D2890D /* NewViewController.swift */,
 				3963DAA0297DD87200481FB7 /* Main.storyboard */,
 				3963DAA3297DD87400481FB7 /* Assets.xcassets */,
 				3963DAA5297DD87400481FB7 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				3963DA9F297DD87200481FB7 /* ViewController.swift in Sources */,
 				3963DA9B297DD87200481FB7 /* AppDelegate.swift in Sources */,
 				3963DA9D297DD87200481FB7 /* SceneDelegate.swift in Sources */,
+				391416D7297EDE7600D2890D /* NewViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,6 +293,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3Y4FBXVDQJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Hello World/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -316,6 +321,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3Y4FBXVDQJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Hello World/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
