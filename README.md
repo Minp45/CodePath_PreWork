@@ -6,7 +6,7 @@ This app ask user to enter their info like first name, last name, college, and e
 
 ### App Walk-though
 
-<!-- <img src="<!-- <img src="YOUR_GIF_URL_HERE" width=200><br>" width=200><br>
+<img src="https://raw.githubusercontent.com/Minp45/CodePath_PreWork/main/Prework.gif" width=200><br> -->
 
 
 ### Required Features
